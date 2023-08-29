@@ -2,8 +2,8 @@
   <img alt="foto-do-projeto" src="./assets/projeto-gerador-de-senha.jpg">
 </p>
 
-<br>
-Acesse aqui -> https://tonelopes.github.io/gerador-de-senhas/
+
+[Acesse aqui](https://tonelopes-dev.github.io/gerador-de-senhas/)
 <br>
 
 ## 🚀 Tecnologias
